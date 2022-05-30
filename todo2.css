@@ -1,0 +1,41 @@
+body{
+    font-family: "poppins" , sans-serif;
+}
+
+.container{
+    padding: 10px;
+    border:2px solid black;
+    width:45%;
+    margin:auto;
+}
+
+.container ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.container .ip{
+    width: 90%;
+    height: 20%;
+}
+
+.container .btnn{
+    width: 55px;
+    height: 25px;
+}
+
+.container li{
+    color: blueviolet;
+}
+
+.container li a{
+    color: red;
+    float: right;
+    font-weight: bold;
+}
+
+.container #error{
+    color: red;
+    font-size: 14px;
+}
+
